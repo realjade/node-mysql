@@ -7,6 +7,7 @@ you spot any mistakes.
 ## HEAD
 
 * Add `enqueue` event to protocol and connection #381
+* Blacklist unsupported connection flags #881
 
 ## v2.4.1 (2014-07-17)
 
